@@ -4,7 +4,6 @@
  *  Created on: 25 Dec 2010
  *      Author: thomas
  *
- *  TODO: Add momentum option
  */
 
 #include "Backpropagation.h"
